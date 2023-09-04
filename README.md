@@ -1,20 +1,19 @@
 ![Untitled_Artwork 4](https://github.com/angelaterao/angelaterao/assets/118790712/86b63be6-c45c-4628-8f18-d42581284324)
 
-### Hi, I'm Angela 👋🏻👩🏻‍💻
+### Hey there! I'm Angela 👋🏻👩🏻‍💻
 
-I'm a self-taught iOS developer 📱, with a unique twist – I spent 4 years immersed in the world of market finance 📈 before diving headfirst into coding through Udemy and YouTube courses. Now, I'm all about putting my self-taught skills to work and building awesome apps! 🚀✨
+Before diving headfirst into coding through Udemy and YouTube courses, I spent 4 years immersed in the world of market finance 📈 .  
+Now, I'm all about putting my self-taught skills to work and building awesome apps! 🚀✨
 
-🔍 I'm constantly exploring new horizons and learning all the things! 🧠  
-💡 Passionate about turning caffeine into code and dreams into digital reality. ☕✨  
-📚 I believe in the power of lifelong learning, so expect my brain to be a constant work-in-progress! 💪🏻  
+🔍 I'm on a continuous journey of mastering Swift and learning all the nuances of this powerful language. 📝  
+💡 I'm passionate about turning caffeine into code and creating apps that push boundaries. ☕✨  
 
 But my curiosity knows no bounds! I'm on a quest to master not only the art of coding but also explore a diverse array of interests. 🌟  
 
-🏋️‍♂️ When I'm not chasing bugs, you'll find me chasing personal records in CrossFit, pushing my limits one workout at a time! 🏋️‍♂️   
-🏃‍♂️ I'm a sports enthusiast who loves running, swimming, climbing, and I'm always open to trying new sports and activities! 🏊‍♂️🧗‍♂️  
+🏋️‍♂️ When I'm not chasing bugs, you'll find me pushing my physical limits at CrossFit and through various sports! 🏃🏊‍♀️🧗‍♀️  
 🎨 I'm also a creative enthusiast, wielding my skills in Procreate, crochet, and painting to bring my imagination to life. 🎨  
 
-Join me on this eclectic journey as we turn ideas into pixels, build apps that leave a mark, and maybe even swap coding tips for CrossFit PRs or artistry secrets! Let's connect, collaborate, and code together! 💻🫱🏻‍🫲🏽
+Let's connect, collaborate, and code together! 💻🫱🏻‍🫲🏽
 
 📫 Feel free to reach out: [angela.terao@gmail.com](mailto:youremail@example.com)  
 
@@ -24,6 +23,7 @@ Join me on this eclectic journey as we turn ideas into pixels, build apps that l
 
 
 <!--
+📚 I believe in the power of lifelong learning, so expect my brain to be a constant work-in-progress! 🧠
 **angelaterao/angelaterao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

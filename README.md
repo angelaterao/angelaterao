@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![LinkedIn - Instagram](https://github.com/angelaterao/angelaterao/assets/118790712/4fde4bc0-63d3-4950-a849-e32682b216f8)
+
+
 <!--
 **angelaterao/angelaterao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

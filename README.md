@@ -1,3 +1,5 @@
+![Untitled_Artwork 4](https://github.com/angelaterao/angelaterao/assets/118790712/86b63be6-c45c-4628-8f18-d42581284324)
+
 ### Hi, I'm Angela 👋🏻👩🏻‍💻
 
 I'm a self-taught iOS developer 📱, with a unique twist – I spent 4 years immersed in the world of market finance 📈 before diving headfirst into coding through Udemy and YouTube courses. Now, I'm all about putting my self-taught skills to work and building awesome apps! 🚀✨

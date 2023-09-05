@@ -1,6 +1,4 @@
-### Hey there! I'm Angela 👋🏻👩🏻‍💻
-
------
+# Hey there! I'm Angela 👋🏻👩🏻‍💻
 
 ![Untitled_Artwork 4](https://github.com/angelaterao/angelaterao/assets/118790712/86b63be6-c45c-4628-8f18-d42581284324)
 

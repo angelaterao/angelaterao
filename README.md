@@ -1,6 +1,6 @@
 # Hey there! I'm Angela 👋🏻👩🏻‍💻
 
-![Untitled_Artwork 4](https://github.com/angelaterao/angelaterao/assets/118790712/86b63be6-c45c-4628-8f18-d42581284324)
+![Untitled_Artwork 6](https://github.com/angelaterao/angelaterao/assets/118790712/0d7025f6-24cf-4745-b332-7f03b4b2c505)
 
 Before diving headfirst into coding through Udemy and YouTube courses, I spent 4 years in the world of market finance.  
 Now, I'm all about putting my self-taught skills to work and building awesome apps!

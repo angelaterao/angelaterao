@@ -2,20 +2,20 @@
 
 ### Hey there! I'm Angela 👋🏻👩🏻‍💻
 
-Before diving headfirst into coding through Udemy and YouTube courses, I spent 4 years in the world of market finance 📈 .  
-Now, I'm all about putting my self-taught skills to work and building awesome apps! 🚀✨
+Before diving headfirst into coding through Udemy and YouTube courses, I spent 4 years in the world of market finance.  
+Now, I'm all about putting my self-taught skills to work and building awesome apps!
 
-🔍 I'm on a continuous journey of mastering Swift and learning all the nuances of this powerful language. 📝  
-💡 I'm passionate about turning caffeine into code and creating apps that push boundaries. ☕✨  
+🔍 I'm on a continuous journey of mastering Swift and learning all the nuances of this powerful language. 🧠   
+☕ I'm passionate about turning caffeine into code and creating apps that push boundaries. 🚀
 
-But my curiosity knows no bounds! I'm on a quest to master not only the art of coding but also explore a diverse array of interests. 🌟  
+But my curiosity knows no bounds! I'm on a quest to master not only the art of coding but also explore a diverse array of interests..
 
-🏋️‍♂️ When I'm not chasing bugs, you'll find me pushing my physical limits at CrossFit and through various sports! 🏃🏊‍♀️🧗‍♀️  
-🎨 I'm also a creative enthusiast, wielding my skills in Procreate, crochet, and painting to bring my imagination to life. 🎨  
+🏋️‍♂️ When I'm not chasing bugs, you'll find me pushing my physical limits at CrossFit and through various sports. 🏃🏊‍♀️🧗‍♀️  
+🎨 I'm also a creative enthusiast, applying my skills in Procreate, crochet, and painting to bring my imagination to life. ✨
 
 Let's connect, collaborate, and code together! 💻🫱🏻‍🫲🏽
 
-📫 Feel free to reach out: [angela.terao@gmail.com](mailto:youremail@example.com)  
+Feel free to reach out: [angela.terao@gmail.com](mailto:youremail@example.com)  
 
 
 

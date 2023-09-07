@@ -2,8 +2,7 @@
 
 ![Untitled_Artwork 6](https://github.com/angelaterao/angelaterao/assets/118790712/0d7025f6-24cf-4745-b332-7f03b4b2c505)
 
-Before diving headfirst into coding through Udemy and YouTube courses, I spent 4 years in the world of market finance.  
-Now, I'm all about putting my self-taught skills to work and building awesome apps!
+After four years immersed in the world of market finance, I've now shifted my focus to putting my self-taught skills to work and building awesome apps!
 
 🔍 I'm on a continuous journey of mastering Swift and learning all the nuances of this powerful language. 🧠   
 ☕ I'm passionate about turning caffeine into code and creating apps that push boundaries. 🚀
